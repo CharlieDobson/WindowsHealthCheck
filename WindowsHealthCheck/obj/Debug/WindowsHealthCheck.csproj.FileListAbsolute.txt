@@ -1,0 +1,10 @@
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\bin\Debug\WindowsHealthCheck.exe
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\bin\Debug\WindowsHealthCheck.pdb
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.csprojAssemblyReference.cache
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.AboutBox.resources
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.WindowsHealthCheck.resources
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.Properties.Resources.resources
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.csproj.GenerateResource.cache
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.csproj.CoreCompileInputs.cache
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.exe
+C:\Users\dobsonc1\source\repos\WindowsHealthCheck\WindowsHealthCheck\obj\Debug\WindowsHealthCheck.pdb
